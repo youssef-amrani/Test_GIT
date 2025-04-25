@@ -1,2 +1,2 @@
 # Test_GIT
-"c'est modifier pour le chef sidi molay med"
+"c'est modifié pour le chef sidi molay med"
